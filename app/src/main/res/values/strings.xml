@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fragment_App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="to_category">Ke Fragment Kategori</string>
+    <string name="to_lifestyle">Ke Fragment LifeStyle</string>
+    <string name="hello_category">Ini Fragment Kategori</string>
+    <string name="category_name">Nama Kategori</string>
+    <string name="category_description">Deskripsi Kategori</string>
+    <string name="to_profile">Profil</string>
+    <string name="show_dialog">Tampil Dialog</string>
+    <string name="question_fruit">Apa buah kesukaan kamu?</string>
+    <string name="semangka">Semangka</string>
+    <string name="jeruk">Jeruk</string>
+    <string name="melon">Melon</string>
+    <string name="nanas">Nanas</string>
+    <string name="apel">Apel</string>
+    <string name="close">Batal</string>
+    <string name="choose">Pilih</string>
+    <string name="author">Xalam</string>
+</resources>
